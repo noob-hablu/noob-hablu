@@ -1,4 +1,4 @@
-![I am noob-hablu]([https://github.com/noob-hablu/noob-hablu/blob/main/code.png](https://github.com/noob-hablu/noob-hablu/blob/main/code.png))
+![I am noob-hablu](https://github.com/noob-hablu/noob-hablu/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
